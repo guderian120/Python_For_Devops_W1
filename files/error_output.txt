@@ -1,0 +1,9 @@
+2025-04-03T14:08:11.056069+00:00 DESKTOP-KULJEPR kernel: WSL (151) ERROR: CheckConnection: getaddrinfo() failed: -5
+
+2025-04-03T18:34:56.918243+00:00 DESKTOP-KULJEPR kernel: WSL (151) ERROR: CheckConnection: getaddrinfo() failed: -3
+
+2025-04-03T18:35:30.234310+00:00 DESKTOP-KULJEPR kernel: WSL (151) ERROR: CheckConnection: getaddrinfo() failed: -3
+
+2025-04-04T05:05:07.566762+00:00 DESKTOP-KULJEPR kernel: WSL (151) ERROR: CheckConnection: getaddrinfo() failed: -5
+
+2025-04-04T07:34:09.865202+00:00 DESKTOP-KULJEPR kernel: WSL (152) ERROR: CheckConnection: getaddrinfo() failed: -5
